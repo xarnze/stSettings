@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"http://packagecontrol.io/channel_v3.json"
+	],
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"urllib",
+			"curl",
+			"wget"
+		],
+		"osx":
+		[
+			"curl"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"http_proxy": "127.0.0.1:8080",
+	"https_proxy": "127.0.0.1:8080",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Babel",
+		"Handlebars",
+		"JavaScriptNext - ES6 Syntax",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Monokai Extended",
+		"Package Control",
+		"Pretty JSON",
+		"tern_for_sublime"
+	]
+}

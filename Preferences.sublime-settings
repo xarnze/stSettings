@@ -1,0 +1,14 @@
+{
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.js"
+		}
+	],
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	]
+}
